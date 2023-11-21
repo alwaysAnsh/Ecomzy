@@ -11,10 +11,13 @@ Snapshot 3
 ![cart 3](https://github.com/alwaysAnsh/Ecomzy/assets/121539688/265e344e-7400-413a-a2b7-ff3f51e31b44)
 
 Snapshot 4
+
 ![cart 4](https://github.com/alwaysAnsh/Ecomzy/assets/121539688/ea39816c-2588-4927-bb35-70f2ff29311c)
 
 Snapshot 5
+
 ![cart 5](https://github.com/alwaysAnsh/Ecomzy/assets/121539688/b6180607-b26b-4ab6-bb72-e1aade86315c)
 
 Snapshot 6
+
 ![cart 6](https://github.com/alwaysAnsh/Ecomzy/assets/121539688/9551a665-a2d2-442d-98d1-36eff48c9409)
